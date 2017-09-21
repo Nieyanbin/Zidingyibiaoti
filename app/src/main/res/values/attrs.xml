@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<declare-styleable name="Myview">
+    <attr name="zhongjian_text" format="string"></attr>
+    <attr name="zhongjian_size" format="dimension"></attr>
+    <attr name="zhongjian_color" format="color"></attr>
+    <attr name="zhongjian_bg" format="color"></attr>
+
+    <attr name="left_text" format="string"></attr>
+    <attr name="left_size" format="dimension"></attr>
+    <attr name="left_color" format="color"></attr>
+    <attr name="left_bg" format="color"></attr>
+
+    <attr name="right_img" format="string"></attr>
+    <attr name="right_size" format="dimension"></attr>
+    <attr name="right_color" format="color"></attr>
+    <attr name="right_bg" format="color"></attr>
+</declare-styleable>
+
+</resources>
